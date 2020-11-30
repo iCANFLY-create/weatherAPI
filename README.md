@@ -8,4 +8,4 @@ JavaScript의 Geolocation API을 이용하여 현재 위치 정보를 받아온 
 2. weather API - https://openweathermap.org/api
 
 ### Images
-<img src="https://user-images.githubusercontent.com/61791986/97648813-0b7d1f80-1a99-11eb-9521-4b79208c45a5.png"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/61791986/100635098-6db89100-3373-11eb-8d9c-ae33e16683ef.png"  width="700" height="370">
