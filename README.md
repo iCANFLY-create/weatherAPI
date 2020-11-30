@@ -1,6 +1,7 @@
 # weatherAPI
 
 ### Summary
+동적으로 JavaScript 요소를 받아온다.
 JavaScript의 Geolocation API을 이용하여 현재 위치 정보를 받아온 후, weather API를 이용하여 오늘로부터 7일의 일기를 불러온다.
 
 ### Using API
