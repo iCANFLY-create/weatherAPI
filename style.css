@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+    /*color*/
+    --grey: #0f0f0fab;
+    --sky-blue: #337ab7;
+    --white: #ffffff;
+    /*size*/
+    --margin: 20px;
+    --padding: 10px;
+}
+body {
+    background-color: var(--grey);
+}
+.logo{
+    color: var(--white);
+    font-size: 30px;
+    text-align: center;
+}
+.weather {
+    width: 250px;
+    height: 250px;
+    background-color: var(--sky-blue);
+    margin: var(--margin);
+    padding-top: var(--padding);
+    display: inline-block;
+    text-align: center;
+}
+
+.weather_date {
+    color: var(--white);
+}
+
+.temparature_date {
+    color: var(--white);
+}
+
+.description {
+    color: var(--white);
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.weather_detail {
+    height: 30%;
+    margin-top: var(--margin);
+    background-color: var(--white);
+}
+
+.humidity,
+.wind_speed,
+.clouds {
+    color: var(--sky-blue);
+    display: inline-block;
+    margin: calc(var(--margin)*0.7);
+}
